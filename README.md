@@ -13,3 +13,5 @@ Example Json for the following collections can be found in [example/](example/)
 The queries can be found in [src/_db/scripts/](src/_db/scripts/)
 
 Note : The queries were carried out in DataGrip which utilises MongoShell, so please run them in DataGrip or MongoShell. running via `node ...` will not work.
+
+AI Policy : AI was used to write the generation scripts for mock data, and writing the docker compose file. It however was not used to write queries, however it was used to lookup documentation and syntax.
