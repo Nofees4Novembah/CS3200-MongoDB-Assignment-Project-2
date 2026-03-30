@@ -1,0 +1,10 @@
+{
+  "_id": "user_123",
+  "email": "student@example.edu",
+  "role": ["tenant"],
+  "tenant_profile": {
+    "tenant_role": "primary",
+    "move_in_date": "2026-01-01",
+    "move_out_date": "2026-05-30"
+  }
+}

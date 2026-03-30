@@ -1,0 +1,20 @@
+{
+  "user_id": "prop_456",
+  "address": "123 Main St",
+  "city": "Anytown",
+  "state": "CA",
+  "zip": "12345",
+  "units": [
+    {
+      "unit_id": "unit_A1",
+      "bedrooms": 2,
+      "current_lease": {
+        "lease_id": "lease_789",
+        "sublease_allowed": true,
+        "lease_status": "active",
+        "lease_start_date": "2026-06-01",
+        "lease_end_date": "2027-06-01"
+      }
+    }
+  ]
+}

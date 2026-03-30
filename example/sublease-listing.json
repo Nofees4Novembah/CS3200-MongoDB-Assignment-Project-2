@@ -1,0 +1,10 @@
+{
+  "listing_id": "listing_001",
+  "lease_id": "lease_789",
+  "poster_id": "user_123",
+  "listing_price": 1200.00,
+  "listing_status": "open",
+  "available-from": "2026-06-01",
+  "available-to": "2027-06-01",
+  "listing_created_at": "2026-05-01"
+}

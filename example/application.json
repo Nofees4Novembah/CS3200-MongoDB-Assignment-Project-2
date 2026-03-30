@@ -1,0 +1,13 @@
+{
+  "_id": "app_999",
+  "listing_id": "listing_001",
+  "applicant_id": "user_888",
+  "application_status": "approved",
+  "contract": {
+    "contract_id": "con_555",
+    "start_date": "2026-06-01",
+    "end_date": "2027-06-01",
+    "contract_status": "active",
+    "created_at": "2026-05-01"
+  }
+}
